@@ -1,9 +1,11 @@
 //
 //  UIAlertView+Block.m
-//  MyUtil
 //
 //  Created by 日野森寛也 on 6/7/14.
-//  Copyright (c) 2014 Baccass. All rights reserved.
+//  Copyright (c) 2014 Hiroya Hinomori. All rights reserved.
+//
+//  This software is released under the MIT License.
+//  http://opensource.org/licenses/mit-license.php
 //
 
 #import "UIAlertView+Block.h"
